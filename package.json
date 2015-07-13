@@ -1,0 +1,27 @@
+{
+  "name": "scroll-trigger",
+  "version": "1.0.0",
+  "description": "simple scroll trigger function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developersoul/scroll-trigger.git"
+  },
+  "keywords": [
+    "scroll",
+    "trigger"
+  ],
+  "author": "Alejandro Sanabria <alesanabriav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developersoul/scroll-trigger/issues"
+  },
+  "homepage": "https://github.com/developersoul/scroll-trigger#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
