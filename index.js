@@ -4,7 +4,7 @@ var _ = require('underscore');
 
 /**
  * Trigger function after scroll
- * @param  {Number}   waitParam - for execute again
+ * @param  {Number}   waitParam - wait for execute again
  * @param  {Number}   toleranceParam - for execute callback
  * @param  {Function} cb - callback
  * @return {Function} cb - callback
