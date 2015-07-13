@@ -11,3 +11,8 @@
     scrollTrigger(1000, 200, function() {
       console.log('user scroll');
     });
+
+## More info
+
+[scroll](http://api.jquery.com/scroll/)
+[throttle](http://underscorejs.org/#throttle)
