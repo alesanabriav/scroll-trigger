@@ -9,7 +9,7 @@ var _ = require('underscore');
  * @param  {Function} cb - callback
  * @return {Function} cb - callback
  */
-module.exports = function(waitParam, toleranceParam, cb) {
+module.exports = function scrollTrigger(waitParam, toleranceParam, cb) {
   var wait = waitParam || 1000;
   var tolerance = toleranceParam || 200;
 
